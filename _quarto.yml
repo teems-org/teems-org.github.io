@@ -19,7 +19,7 @@ book:
   favicon: images/cover-2e-small.png
 
   reader-mode: true
-  site-url: https://r-pkgs.org/
+  site-url: https://teems-org.github.io/
   repo-url: https://github.com/hadley/r-pkgs/
   repo-actions: [edit, issue]
   
